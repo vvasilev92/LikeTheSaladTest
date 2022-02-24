@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LikeTheSaladTest</string>
+    <string name="test_string">Hello ${app_name}</string>
+</resources>
